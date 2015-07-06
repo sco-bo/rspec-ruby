@@ -1,1 +1,1 @@
-# rspec-ruby
+A Test-First Ruby Project
